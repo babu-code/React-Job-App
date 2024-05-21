@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "type": "Full-Time",
+      "title": "Senior React Dev Updated",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular",
+      "salary": "$70k-$80k",
+      "location": "Boston, MA",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to out clients while fostering a collaborative and innovative work environment",
+        "email": "bluemagics@gmail.com",
+        "phone": "293022390203"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "location": "Miami, FL",
+      "salary": "$70k-$80k",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to out clients while fostering a collaborative and innovative work environment",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": " React.js developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about React front-end development? Join our team as a Front-End Developer in vibrant Brooklyn NewYork and work on exciting projects that make a difference.We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "location": "Brooklyn, NY",
+      "salary": "$70k-$80k",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction we are committed to delivering cutting-edge products and services. We pride ourselves on delivering high-quality products and services to out clients while fostering a collaborative and innovative work environment",
+        "contactEmail": "contact@dolorsitamet.customer",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "type": "Full-Time",
+      "title": "React Native Dev",
+      "description": "Join our team as a Front-End Developer in Portland, OR. We are looking for a skilled and enthusiastic individual with a to help us create innovative web solutions. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70k-$80k",
+      "location": "Portland, OR",
+      "company": {
+        "name": "Portland Solutions INC",
+        "description": "Veneer Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to out clients while fostering a collaborative and innovative work environment",
+        "email": "contact@ipsumlorem.com",
+        "phone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a Young talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular",
+      "location": "Boston, MA",
+      "salary": "$50k-$80k",
+      "company": {
+        "name": "Blue Magic Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to out clients while fostering a collaborative and innovative work environment",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": " React.js developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about React front-end development? Join our team as a Front-End Developer in vibrant Brooklyn NewYork and work on exciting projects that make a difference.We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "location": "Brooklyn, NY",
+      "salary": "$70k-$80k",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction we are committed to delivering cutting-edge products and services. We pride ourselves on delivering high-quality products and services to out clients while fostering a collaborative and innovative work environment",
+        "contactEmail": "contact@dolorsitamet.customer",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}

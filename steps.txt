@@ -1,0 +1,18 @@
+1. Start with a monolithic html 
+2. Break the monolith into components
+3. Introduce React router dom 
+4. Create a pages folder and create a homepage pages
+5. Import Routes, RouterProvider, createRoutesFromElements and createBrowserRouter from react router dom
+6. create a router using createBrowserRouter, createRoutesFromElements and Routes
+7. pass the router to the RouterProvider in the jsx
+8. Create a Main Layout component in layouts folder under src and set it as a parent route to all other routes in step 6
+9. Go to the main Layout and import Outlet from react router dom and include it as a component in main layout. Outlet will enable us to to render the children components
+10. Pass the Navbar component just above the Outlet component
+11. Create Pages and their respective routes
+12. Create a NotFound Page
+13. Edit active links on Navbar by changing the link elements to Navlink and setting the isActive arrow function
+14. Install Json Server to use it as mock server
+15. Fetch jobs for the JobsPage using useEffect hook
+16. declare  jobLoader on the jobPage
+17. pass the jobLoader as value to loader prop to its route in App.jsx
+18. Use useLoaderData hook to load the jobs back to the jsx in the JobPage(notice it is a complete circuit)
